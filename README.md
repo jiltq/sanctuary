@@ -13,6 +13,7 @@ below is the update log and list of bugs for the [roblox game sanctuary](https:/
 - t-shirts are now automatically removed
 - added the "delete floppa" gamepass which removes floppa from the game entirely and removes any dialog involving him
 - fixed a slight grammatical error with the Q&A NPC
+- the player may no longer push the Q&A NPC around
 
 ## bug reports
 
