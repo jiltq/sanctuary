@@ -1,4 +1,4 @@
-# sanctuary update log
+# sanctuary
 
 below is the update log and list of bugs for the [roblox game sanctuary](https://www.roblox.com/games/9519233512/) by @jiltq
 
