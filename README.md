@@ -19,3 +19,4 @@ below is the update log and list of bugs for the [roblox game sanctuary](https:/
 
 - floating platform does not stop following the player when standing on an island
 - standing/sitting animations do not load
+- the sanctuary music can be heard from way too far away
