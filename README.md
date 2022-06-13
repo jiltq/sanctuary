@@ -7,3 +7,5 @@ below is the update log for the [roblox game sanctuary](https://www.roblox.com/g
 - fixed visible attachment
 - optimized tv static and reduced the volume
 - changed overhead message font and content
+- disabled reset button
+- t-shirts are now automatically removed
